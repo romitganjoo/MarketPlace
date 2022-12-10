@@ -1,0 +1,14 @@
+services:
+  marketplace:
+    container_name: marketplace
+    image: marketplace
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        ENV: ${ENV}
+        PORT: ${PORT}
+    ports:
+      - ${PORT}:${PORT}
+    volumes:
+      - "./:/var/www/html"
