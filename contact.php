@@ -113,9 +113,9 @@ store_visited_pages("Contact");
         <nav class="limiter-menu-desktop container">
 
           <!-- Logo desktop -->
-          <a href="#" class="logo">
+          <!-- <a href="#" class="logo">
             <img src="images/icons/logo-01.png" alt="IMG-LOGO">
-          </a>
+          </a> -->
 
           <!-- Menu desktop -->
           <div class="menu-desktop">
@@ -169,9 +169,9 @@ store_visited_pages("Contact");
     <!-- Header Mobile -->
     <div class="wrap-header-mobile">
       <!-- Logo moblie -->
-      <div class="logo-mobile">
+      <!-- <div class="logo-mobile">
         <a href="index.php"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
-      </div>
+      </div> -->
 
       <!-- Icon header -->
       <div class="wrap-icon-header flex-w flex-r-m m-r-15">
