@@ -183,9 +183,9 @@
 								<a href="popular_products.php">Popular Products</a>
 							</li>
 
-							<li >
+							<!-- <li >
 								<a href="blog.php">News</a>
-							</li>
+							</li> -->
 
 							<li >
 								<a href="about.php">About</a>
@@ -292,9 +292,9 @@
 					<a href="shoping-cart.php" class="label1 rs1" data-label1="hot">Features</a>
 				</li>
 
-				<li>
+				<!-- <li>
 					<a href="blog.php">News</a>
-				</li>
+				</li> -->
 
 				<li>
 					<a href="about.php">About</a>

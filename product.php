@@ -119,9 +119,7 @@
 				<nav class="limiter-menu-desktop container">
 					
 					<!-- Logo desktop -->		
-					<a href="#" class="logo">
-						<img src="images/icons/logo-01.png" alt="IMG-LOGO">
-					</a>
+					
 
 					<!-- Menu desktop -->
 					<div class="menu-desktop">
@@ -138,9 +136,9 @@
 								<a href="popular_products.php">Popular Products</a>
 							</li>
 
-							<li>
+							<!-- <li>
 								<a href="blog.php">News</a>
-							</li>
+							</li> -->
 
 							<li >
 								<a href="about.php">About</a>
@@ -247,9 +245,9 @@
 					<a href="shoping-cart.php" class="label1 rs1" data-label1="hot">Features</a>
 				</li>
 
-				<li>
+				<!-- <li>
 					<a href="blog.php">News</a>
-				</li>
+				</li> -->
 
 				<li>
 					<a href="about.php">About</a>
@@ -285,23 +283,25 @@
 			<div class="flex-w flex-sb-m p-b-52">
 				<div class="flex-w flex-l-m filter-tope-group m-tb-10">
 	            <button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1" data-filter="*">
-						All Products
+						Spartan Bookstore
 					</button>
+
+					<!-- <button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".Games">
+						Spartan Bookstore
+					</button> -->
 
 					<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".Bikes">
-						Bikes
+						Darkshade
 					</button>
 
-					<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".Games">
-						Games
-					</button>
+					
 
 					<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".Homes">
-						Homes
+						Auction Place
 					</button>
 
 					<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".Books">
-						Books
+						Joe's Java
 					</button>
 				</div>
 
@@ -540,25 +540,25 @@
 					<ul>
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Bikes
+								Darkshade
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Games
+								Spartan Bookstore
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Books
+								Joe's Java
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Homes
+								Auction Place
 							</a>
 						</li>
 					</ul>

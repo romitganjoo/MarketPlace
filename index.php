@@ -280,9 +280,9 @@ input[name=searchSubmit] {
 								<a href="popular_products.php">Popular Products</a>
 							</li>
 
-							<li>
+							<!-- <li>
 								<a href="blog.php">News</a>
-							</li>
+							</li> -->
 
 							<li>
 								<a href="about.php">About</a>
@@ -389,9 +389,7 @@ input[name=searchSubmit] {
 					<a href="shoping-cart.php" class="label1 rs1" data-label1="hot">Features</a>
 				</li>
 
-				<li>
-					<a href="blog.php">News</a>
-				</li>
+				
 
 				<li>
 					<a href="about.php">About</a>
@@ -619,18 +617,18 @@ input[name=searchSubmit] {
 	<section class="section-slide">
 		<div class="wrap-slick1">
 			<div class="slick1">
-				<div class="item-slick1" style="background-image: url(images/slide-01.jpg);">
+				<div class="item-slick1" style="background-image: url(images/coffeeb.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
 								<span class="ltext-101 cl2 respon2">
-									ALL NEW PERFORMANCE
+									Joe's Java
 								</span>
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
 								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-								Cannondale Bikes
+								We sell Coffee Beans
 								</h2>
 							</div>
 								
@@ -643,18 +641,18 @@ input[name=searchSubmit] {
 					</div>
 				</div>
 
-				<div class="item-slick1" style="background-image: url(images/slide-02.jpg);">
+				<div class="item-slick1" style="background-image: url(images/plainbackground.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="rollIn" data-delay="0">
 								<span class="ltext-101 cl2 respon2">
-									Experience VR with Occulus© 
+									Spartan Bookstore
 								</span>
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="lightSpeedIn" data-delay="800">
 								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-									Games
+									One Stop shop for SJSU Merch
 								</h2>
 							</div>
 								
@@ -667,18 +665,18 @@ input[name=searchSubmit] {
 					</div>
 				</div>
 
-				<div class="item-slick1" style="background-image: url(images/background1.png);">
+				<div class="item-slick1" style="background-image: url(images/phone.png);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
 								<span class="ltext-101 cl2 respon2">
-									We Sell Services
+									Darkshade
 								</span>
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInUpRight" data-delay="800">
 								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-									Solving Tech Problems
+									We sell used phones
 								</h2>
 							</div>
 								
@@ -691,24 +689,24 @@ input[name=searchSubmit] {
 					</div>
 				</div>
 				
-				<div class="item-slick1" style="background-image: url(images/slide-04.jpg);">
+				<div class="item-slick1" style="background-image: url(images/a1.jpg);">
 					<div class="container h-full">
 						<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
 								<span class="ltext-101 cl2 respon2">
-									Your Space
+									Auction Place
 								</span>
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="rotateInUpRight" data-delay="800">
 								<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-									Nest Away
+									Bid like there's no tomorrow
 								</h2>
 							</div>
 								
 							<div class="layer-slick1 animated visible-false" data-appear="rotateIn" data-delay="1600">
 								<a href="product.php" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-									Shop Now
+									Explore
 								</a>
 							</div>
 						</div>
@@ -728,16 +726,16 @@ input[name=searchSubmit] {
 				<div class="col-md-6 col-md-4 p-b-30 m-lr-auto">
 					<!-- Block1 -->
 					<div class="block1 wrap-pic-w">
-						<img src="images/d.webp" alt="IMG-BANNER">
+						<img src="images/phone.webp" alt="IMG-BANNER">
 
-						<a href="https://darkshadeinc.000webhostapp.com/darkshade/index.html" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<a href="https://romitg.000webhostapp.com/index.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
 								<span class="block1-name ltext-102 trans-04 p-b-8">
-									Darkshade Inc.
+									Darkshade
 								</span>
 
 								<span class="block1-info stext-102 trans-04">
-									We Sell Services.
+									We Sell Used Phones.
 								</span>
 							</div>
 
@@ -753,67 +751,67 @@ input[name=searchSubmit] {
 				<div class="col-md-6 col-md-4 p-b-30 m-lr-auto">
 					<!-- Block1 -->
 					<div class="block1 wrap-pic-w">
-						<img src="images/banner-02.jpg" alt="IMG-BANNER">
+						<img src="images/spartans.jpg" alt="IMG-BANNER">
 
-						<a href="http://ec2-54-190-25-251.us-west-2.compute.amazonaws.com:8000/" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<a href="https://272labassessment.000webhostapp.com/prod1.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+							<div class="block1-txt-child1 flex-col-l">
+								<span class="block1-name ltext-102 trans-04 p-b-8">
+									Spartan Bookstore
+								</span>
+
+								<span class="block1-info stext-102 trans-04">
+									One stop shop for SJSU Merch.
+								</span>
+							</div>
+
+							<div class="block1-txt-child2 p-b-4 trans-05">
+								<div class="block1-link stext-101 cl0 trans-09">
+									Explore
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-md-6 col-md-4 p-b-30 m-lr-auto">
+					<!-- Block1 -->
+					<div class="block1 wrap-pic-w">
+						<img src="images/coffee.jpg" alt="IMG-BANNER">
+
+						<a href="https://tqc22.com/home" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+							<div class="block1-txt-child1 flex-col-l">
+								<span class="block1-name ltext-102 trans-04 p-b-8">
+									Joe's Java
+								</span>
+
+								<span class="block1-info stext-102 trans-04">
+									We Sell Coffee Beans.
+								</span>
+							</div>
+
+							<div class="block1-txt-child2 p-b-4 trans-05">
+								<div class="block1-link stext-101 cl0 trans-09">
+									Explore
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+				
+				
+				<div class="col-md-6 col-md-4 p-b-30 m-lr-auto">
+					<!-- Block1 -->
+					<div class="block1 wrap-pic-w">
+						<img src="images/vishwa1.jpg" alt="IMG-BANNER">
+
+						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 							<div class="block1-txt-child1 flex-col-l">
 								<span class="block1-name ltext-102 trans-04 p-b-8">
 									Auction Place
 								</span>
 
 								<span class="block1-info stext-102 trans-04">
-									We Sell Everything
-								</span>
-							</div>
-
-							<div class="block1-txt-child2 p-b-4 trans-05">
-								<div class="block1-link stext-101 cl0 trans-09">
-									Explore
-								</div>
-							</div>
-						</a>
-					</div>
-				</div>
-
-				<div class="col-md-6 col-md-4 p-b-30 m-lr-auto">
-					<!-- Block1 -->
-					<div class="block1 wrap-pic-w">
-						<img src="images/banner-03.jpg" alt="IMG-BANNER">
-
-						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
-							<div class="block1-txt-child1 flex-col-l">
-								<span class="block1-name ltext-102 trans-04 p-b-8">
-									Books
-								</span>
-
-								<span class="block1-info stext-102 trans-04">
-									Best Sellers
-								</span>
-							</div>
-
-							<div class="block1-txt-child2 p-b-4 trans-05">
-								<div class="block1-link stext-101 cl0 trans-09">
-									Explore
-								</div>
-							</div>
-						</a>
-					</div>
-				</div>
-				
-				
-				<div class="col-md-6 col-md-4 p-b-30 m-lr-auto">
-					<!-- Block1 -->
-					<div class="block1 wrap-pic-w">
-						<img src="images/banner-04.jpg" alt="IMG-BANNER">
-
-						<a href="product.php" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
-							<div class="block1-txt-child1 flex-col-l">
-								<span class="block1-name ltext-102 trans-04 p-b-8">
-									Homes
-								</span>
-
-								<span class="block1-info stext-102 trans-04">
-									All New Designs
+									Bid like there's no tomorrow
 								</span>
 							</div>
 
@@ -842,25 +840,25 @@ input[name=searchSubmit] {
 					<ul>
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Darkshade Inc.
+								Darkshade
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Games
+								Spartan Bookstore
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Books
+								Joe's Java
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Homes
+								Auction Place
 							</a>
 						</li>
 					</ul>
@@ -887,7 +885,7 @@ input[name=searchSubmit] {
 					</h4>
 
 					<p class="stext-107 cl7 size-201">
-						Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879
+						Any questions? Let us know in store at 734, MLK Library, San Jose, CA 95110 or call us on (+1) 408-690-5305
 					</p>
 
 					<div class="p-t-27">

@@ -118,9 +118,9 @@
 				<nav class="limiter-menu-desktop container">
 					
 					<!-- Logo desktop -->		
-					<a href="#" class="logo">
+					<!-- <a href="#" class="logo">
 						<img src="images/icons/logo-01.png" alt="IMG-LOGO">
-					</a>
+					</a> -->
 
 					<!-- Menu desktop -->
 					<div class="menu-desktop">
@@ -137,9 +137,9 @@
 								<a href="popular_products.php">Popular Products</a>
 							</li>
 
-							<li>
+							<!-- <li>
 								<a href="blog.php">News</a>
-							</li>
+							</li> -->
 
 							<li >
 								<a href="about.php">About</a>
@@ -246,9 +246,9 @@
 					<a href="shoping-cart.php" class="label1 rs1" data-label1="hot">Features</a>
 				</li>
 
-				<li>
+				<!-- <li>
 					<a href="blog.php">News</a>
-				</li>
+				</li> -->
 
 				<li>
 					<a href="about.php">About</a>

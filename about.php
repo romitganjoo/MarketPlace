@@ -111,9 +111,9 @@
 				<nav class="limiter-menu-desktop container">
 					
 					<!-- Logo desktop -->		
-					<a href="#" class="logo">
+					<!-- <a href="#" class="logo">
 						<img src="images/icons/logo-01.png" alt="IMG-LOGO">
-					</a>
+					</a> -->
 
 					<!-- Menu desktop -->
 					<div class="menu-desktop">
@@ -130,9 +130,9 @@
 								<a href="popular_products.php">Popular Products</a>
 							</li>
 
-							<li>
+							<!-- <li>
 								<a href="blog.php">News</a>
-							</li>
+							</li> -->
 
 							<li  class="active-menu">
 								<a href="about.php">About</a>
@@ -166,9 +166,9 @@
 		<!-- Header Mobile -->
 		<div class="wrap-header-mobile">
 			<!-- Logo moblie -->		
-			<div class="logo-mobile">
+			<!-- <div class="logo-mobile">
 				<a href="index.php"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
-			</div>
+			</div> -->
 
 			<!-- Icon header -->
 			<div class="wrap-icon-header flex-w flex-r-m m-r-15">
@@ -239,9 +239,9 @@
 					<a href="shoping-cart.php" class="label1 rs1" data-label1="hot">Features</a>
 				</li>
 
-				<li>
+				<!-- <li>
 					<a href="blog.php">News</a>
-				</li>
+				</li> -->
 
 				<li>
 					<a href="about.php">About</a>
@@ -371,25 +371,25 @@ There are a ton companies in the world, but our mission sets itself apart with a
 					<ul>
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Bikes
+								Darkshade 
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Games
+								Spartan Bookstore
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Books
+								Joe's Java
 							</a>
 						</li>
 
 						<li class="p-b-10">
 							<a href="product.php" class="stext-107 cl7 hov-cl1 trans-04">
-								Homes
+								Auction Place
 							</a>
 						</li>
 					</ul>
