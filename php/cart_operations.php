@@ -98,7 +98,7 @@
 		$result = mysqli_fetch_array($result);
 		$orderid = $result['orderid'];
 
-		$query = "update order set isordered = TRUE where orderid = ".$orderid;
+		$query = "update orders set isordered = TRUE where orderid = ".$orderid;
 		
 		// Execute the query
 		mysqli_query($conn, $query);
