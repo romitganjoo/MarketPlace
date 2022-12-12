@@ -1,11 +1,11 @@
 # CMPE-272-Term-Project - https://marktplatz.vedantbhoj.com
 • An e-commerce marketplace web application with features like easy check-out of products from multiple vendors, search products based on multiple factors, wish list etc.  
-• Google and Facebook sign-in integration. Product sorting and filtering based on rating and view count.                         
+• Product sorting and filtering based on rating and view count.                         
 • Based on CURL calls to access remote company's data and integrate into the common market place.
  
- Website Link - https://marktplatz.vedantbhoj.com
+ Website Link - https://marketplace.tqc22.com/
  
- Demo Video Link - https://youtu.be/dT2U4Y_pgFk
+ Demo Video Link - https://youtu.be/h08VQKHPj5E
 
  
 <html><body><div id=":tm" class="ii gt"><div id=":tl" class="a3s aXjCH "><div dir="ltr">
@@ -75,13 +75,8 @@
 
 
 
-
-
 <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">2. Adding a review and rating
 to a product only when logged in.</span></p>
-
-
-
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:5pt">
@@ -197,13 +192,8 @@ to a product only when logged in.</span></p>
 
 
 
-
-
 <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">3. User can track his/her
 movement through the store website using Page Tracking</span></p>
-
-
-
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:5pt">
@@ -289,111 +279,8 @@ movement through the store website using Page Tracking</span></p>
 
 
 
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">4. Logging in using Facebook
-authentication</span></p>
-
-<table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
- <tbody><tr>
-  <td width="305" valign="top" style="width:229pt;border:1pt solid windowtext;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><b><span style="color:black">Step</span></b></p>
-  </td>
-  <td width="317" valign="top" style="width:238pt;border-top:1pt solid windowtext;border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:none;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><b><span style="color:black">Expected Result</span></b></p>
-  </td>
- </tr>
- <tr style="height:13.9pt">
-  <td width="305" valign="top" style="width:229pt;border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt;height:13.9pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Log out of the website if you
-  have previously logged in. Also Log out of Facebook if you have already logged in.</span></p>
-  </td>
-  <td width="317" valign="top" style="width:238pt;border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt;height:13.9pt"></td>
- </tr>
- <tr style="height:17pt">
-  <td width="305" valign="top" style="width:229pt;border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt;height:17pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Click on Facebook Login
-  button on the top bar</span></p>
-  </td>
-  <td width="317" valign="top" style="width:238pt;border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt;height:17pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">A window for Facebook
-  credentials should pop up</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="305" valign="top" style="width:229pt;border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Enter your credentials for Facebook
-  (assuming you have an account already) to log in</span></p>
-  </td>
-  <td width="317" valign="top" style="width:238pt;border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">An alert window should pop up
-  for a successful login. The page will refresh. Login should be successful</span></p>
-  </td>
- </tr>
-</tbody></table>
-
-
-
-
-
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">5. Logging in using Google
-authentication</span></p>
-
-
-
-<table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
- <tbody><tr>
-  <td valign="top" style="border:1pt solid windowtext;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><b><span style="color:black">Step</span></b></p>
-  </td>
-  <td valign="top" style="border-top:1pt solid windowtext;border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:none;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><b><span style="color:black">Expected result</span></b></p>
-  </td>
- </tr>
- <tr>
-  <td valign="top" style="border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Log out of the website if you
-  have previously logged in. Also log out of your Google account if you have logged in already</span></p>
-  </td>
-  <td valign="top" style="border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt"></td>
- </tr>
- <tr style="height:17pt">
-  <td valign="top" style="border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt;height:17pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Click on Log into My Account
-  on the top right corner</span></p>
-  </td>
-  <td valign="top" style="border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt;height:17pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">A Login/Sign Up form should
-  open</span></p>
-  </td>
- </tr>
- <tr>
-  <td valign="top" style="border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Click on the Google login
-  button</span></p>
-  </td>
-  <td valign="top" style="border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">A window for Google account
-  credentials should pop up</span></p>
-  </td>
- </tr>
- <tr>
-  <td valign="top" style="border-right:1pt solid windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid windowtext;border-top:none;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">Enter your credentials for
-  Google (assuming you have an account already) to log in</span></p>
-  </td>
-  <td valign="top" style="border-top:none;border-left:none;border-bottom:1pt solid windowtext;border-right:1pt solid windowtext;padding:5pt">
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">An alert window should pop up
-  for a successful login. The page will refresh. Login should be successful</span></p>
-  </td>
- </tr>
-</tbody></table>
-
-
-
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">6. Cart Operations - Add,
+<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">4. Cart Operations - Add,
 Remove and Checkout</span></p>
-
-
-
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:5pt">
@@ -527,11 +414,8 @@ Remove and Checkout</span></p>
 
 
 
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">7. Most visited products in the
+<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">5. Most visited products in the
 whole market place</span></p>
-
-
-
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:0in 5.4pt">
@@ -622,13 +506,8 @@ whole market place</span></p>
 
 
 
-
-
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">8. Most visited products in the
+<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">6. Most visited products in the
 Individual companies.</span></p>
-
-
-
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:0in 5.4pt">
@@ -758,8 +637,7 @@ Individual companies.</span></p>
 
 
 
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">9. Product Search</span></p>
-
+<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">7. Product Search</span></p>
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:0in 5.4pt">
@@ -816,11 +694,8 @@ Individual companies.</span></p>
 
 
 
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">10. Category wise
+<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">8. Category wise
 recommendation system</span></p>
-
-
-
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:0in 5.4pt">
@@ -877,14 +752,7 @@ recommendation system</span></p>
 
 
 
-
-
-
-
-<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">11. Contacting the seller</span></p>
-
-
-
+<p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">9. Contacting the seller</span></p>
 <table class="m_4019359482948295490gmail-MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;border-collapse:collapse;border:none">
  <tbody><tr>
   <td valign="top" style="border:1pt solid windowtext;padding:0in 5.4pt">
@@ -944,6 +812,7 @@ recommendation system</span></p>
   </td>
  </tr>
 </tbody></table>
+
 
 <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif">&nbsp;</p></div><div class="yj6qo"></div><div class="adL">
 </div></div></div></body></html>
