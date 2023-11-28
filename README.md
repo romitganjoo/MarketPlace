@@ -806,7 +806,7 @@ recommendation system</span></p>
   <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">An email must be sent to the
   seller. The customer must also get the same email as their copy of the
   message.</span></p>
-  <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">For the Game Store -&nbsp;</span><a href="mailto:bhoj.vedant28@gmail.com" target="_blank">bhoj.vedant28@gmail.com</a></p>
+ 
   <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><span style="color:black">should be in the recipients
   list</span></p>
   </td>
